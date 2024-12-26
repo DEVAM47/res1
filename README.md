@@ -1,3 +1,5 @@
 # res1
 my first repository 
-author devam parekh
+author devam alpeshkumar parekh
+class btech cse 4
+
